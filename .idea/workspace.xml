@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0c9b990-0461-4021-86a0-c7c7e386d516" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/META-INF/Paradigmen der Programmierung.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/components/RandomSensor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/components/Thermometer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/components/UpDownSensor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/decorator/IgnoreDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/decorator/RoundValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/decorator/SensorLimits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/decorator/SensorLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/interfaces/Sensor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/interfaces/TemperatureObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/observer/HeatingSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/observer/TemperatureAlert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Paradigmen der Programmierung/observer/WeatherReport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TLtD05fFFZGSerBZtxXVwgxRwH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PP" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Paradigmen der Programmierung" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0c9b990-0461-4021-86a0-c7c7e386d516" name="Default Changelist" comment="" />
+      <created>1573251079357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573251079357</updated>
+      <workItem from="1573251084491" duration="641000" />
+      <workItem from="1573254431743" duration="1164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
