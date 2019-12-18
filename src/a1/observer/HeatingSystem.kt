@@ -11,12 +11,13 @@ class HeatingSystem (private val heat: HeatingStrategy): TemperatureObserver {
     override fun update(temperature: Float) {
 
         last10measurements.add(temperature)
-
         if(heat.needsHeating(last10measurements.takeLast(10))){
             println("Heizung wird eingeschaltet")
+            last10measurements.removeAt(0)
         }
         else{
             println("Heizung wird ausgeschaltet")
+            last10measurements.removeAt(0)
         }
 
     }

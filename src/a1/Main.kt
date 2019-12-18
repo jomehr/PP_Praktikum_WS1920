@@ -18,7 +18,7 @@ fun main () {
     t1.register(TemperatureAlert())
     t1.register(HeatingSystem(SensibleHeatingStrategie()))
     t1.register(WeatherReport())
-    t1.run(10)
+    t1.run(10000)
 
     println("-----")
     //val t2 = Thermometer(SensorLogger(RoundValues(IgnoreDuplicates(UpDownSensor())))).run(20)
