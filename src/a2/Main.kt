@@ -89,7 +89,7 @@ fun <T> anyIteration (list: List<T>, p: (T) -> Boolean): Boolean {
     return false
 }
 
-//fun <T> anyFold (list: List<T>, p: (T) -> Boolean): Boolean = fold(list, false, )
+fun <T> anyFold (list: List<T>, p: (T) -> Boolean): Boolean = fold(list, false,{total, next -> total or p(next)})
 
 
 tailrec fun <T,R> fold( list : List <T> , accumulated : R , f : (R,T)->R ) : R = when(list) {
